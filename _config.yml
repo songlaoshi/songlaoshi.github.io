@@ -1,5 +1,5 @@
 name: songlaoshi's home page
 markdown: kramdown
-permalink: /blog/:year/:month/:day/:title
+
 
 theme: jekyll-theme-slate
